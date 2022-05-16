@@ -4,7 +4,7 @@ author:
   email: benedict_loh@hotmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   This is my first blog to document my learning and reading journey. 
-base_url: "benedictlohjd.github.io"
+base_url: "/benedictlohjd.github.io"
 url: "https://benedictlohjd.github.io"
 
 show_excerpts: false # set to true to show excerpts on the homepage
