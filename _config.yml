@@ -55,6 +55,10 @@ header_pages:
   - about.md
   - life/index.html
 
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
 # Build settings
 theme: minima
 
