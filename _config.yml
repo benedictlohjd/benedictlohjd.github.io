@@ -2,8 +2,9 @@ title: statstudent
 author:
   name: Benedict Loh
   email: benedict_loh@hotmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  This is my first blog to document my learning and reading journey. 
+description: >- # this means to ignore newlines until "base_url:"
+  Hi, my name is Benedict. I live in Singapore and I am enthusiastic about data and making data products. 
+  I use this space to document my personal and professional life. 
 base_url: "/benedictlohjd.github.io"
 url: "https://benedictlohjd.github.io"
 # destination: ./gh-pages
@@ -52,6 +53,11 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - about.md
+  - life/index.html
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 
 # Build settings
 theme: minima
