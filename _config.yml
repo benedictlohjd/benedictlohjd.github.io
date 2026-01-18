@@ -3,8 +3,7 @@ author:
   name: Benedict Loh
   email: benedict_loh@hotmail.com
 description: >- # this means to ignore newlines until "base_url:"
-  Hi, my name is Benedict. I live in Singapore and I am enthusiastic about data and making data products. 
-  I use this space to document my personal and professional life. 
+  Hi, my name is Benedict. I use this space to document my personal and professional life. 
 base_url: "/benedictlohjd.github.io"
 url: "https://benedictlohjd.github.io"
 # destination: ./gh-pages
